@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard RH - TERIAK",
+  "description": "Tableau de bord dynamique et automatisé de suivi des effectifs, recrutements, départs et turnover pour la société TERIAK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
